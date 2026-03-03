@@ -53,10 +53,15 @@ This project implements a **financial fraud detection system** that uses machine
 ---
 
 ## 📊 Results (Example)
-- **Accuracy:** (Add the score here)  
-- **Precision & Recall:** (Show important metrics here)
+- **Accuracy:**   
+- **Precision & Recall:** 
 
-> *You can add screenshots or evaluation graphs here if possible!*
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd71a713-39b5-4ee0-90fe-c94f5b5811d1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7496ac6-60d8-4381-a4d9-e7fc85931e3f" />
+> <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3f9a2c42-a015-4a3e-b5a5-4113dc8a8ce7" />
+
+
+
 
 ---
 
